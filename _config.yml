@@ -1,6 +1,6 @@
 title: Hell of Heaven - Dronestart
 locale: en_US
 
-theme: jekyll-theme-midnight
+theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-menus
+- jekyll-remote-theme # add this line to the plugins list if you already have one
