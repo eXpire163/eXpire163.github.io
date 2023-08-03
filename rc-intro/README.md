@@ -17,8 +17,22 @@
   
 ## How to get started
 
-**Do not start with a cool fighter yet - you will destroy it!!!**
+**Do not start with a cool fighter jet - you will destroy it!!!**
 
 1. Get something simple to fly
-    1. Stabaliesed camera drone (with prop protection
-    2. 
+    1. Tiny indoor drone (with prop protection)
+    2. Stabaliesed camera drone (with prop protection)
+    3. A Trainer airplane (with recovery function or dihedral)
+2. Get a simulator and use it for some time
+
+## Is this something you can image to get into?
+
+You probably tried now lots of different things in the sim and had lots of fun with huge helicopers or extreme jets or maybe even with a 1/3 scale piper cub. **Don't by anything like that yet!!!**
+
+### Find a local club
+
+Good your town name and combine it with rc/model airplane and the changes are pretty good that you find something.
+Types of clubs
+1. Just for fun - small crappy airfield and you can fly what you want - no matter how old or cheap it was.
+2. 
+
