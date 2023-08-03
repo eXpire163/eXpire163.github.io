@@ -3,17 +3,18 @@
 ## Types of Aircraft
 
 1. Planes
-   1. Glider (with or without motor)
-   2. Highwing (trainer / stol)
-   3. Midwing (3d)
-   4. Lowwing (warbirds)
+   1. Glider (with or without motor) ![glider](glider.jpg)
+   2. High wing (trainer / stol) ![high](highwing.jpg) ![high2](highwing2.JPG)
+   3. Mid wing (3d) ![mid](3d.jpg)
+   4. Low wing (warbirds)
+   5. Wing ![wing](wing.JPG)
 1. Helicopters
-   1. Scale
-   2. 3D
+   1. Scale ![scaleheli](scaleheli.JPG) ![scaleheli2](scaleheli2.jpeg)
+   2. 3D ![3dheli](3dheli.jpg)
 1. Drones
    1. Camera (typical DJI)
    2. Cinematic (mix off freestyle and camera)
-   3. Freestyle / Racing
+   3. Freestyle / Racing ![freestyle](freestyle.jpg)
   
 ## How to get started
 
