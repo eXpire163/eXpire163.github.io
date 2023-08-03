@@ -15,6 +15,8 @@
    1. Camera (typical DJI) ![video](video.jpg)
    2. Cinematic (mix off freestyle and camera)
    3. Freestyle / Racing ![freestyle](freestyle.jpg)
+1. FPV (First Person View)
+   Race / Freestyle / Longrange / Mission 
   
 ## How to get started
 
@@ -45,4 +47,23 @@ What all clubs have in common that is that you need to have a insurance (~50$ a 
 ### Lisence? / Legal?
 
 Learn about the rules from your club. Or checkout the [Kenntnisnachweis](https://kenntnisnachweisonline.dmfv.aero/) from the dmfv
+
+## Hardware
+
+What else do i need? 
+
+1. Remote Controll
+There are tons of different brands and styles out there - but ask the people at your local club on with systems they can help you with
+   1. if you just want something that works and works with lots of stuff - use spektrum
+   2. if you are a developer - get a radiomaster tx16s and get into openTX/edgeTX
+   3. if you want to fly a jet - get a jeti system
+  
+Just make sure you get something you can connect to the pc / simulator
+
+![remote](remote.jpg)
+
+2. Charger
+
+Start with a simple "4 button" charger and later when you know what you want get a 2-4 port charger
+
 
