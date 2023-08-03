@@ -12,7 +12,7 @@
    1. Scale ![scaleheli](scaleheli.JPG) ![scaleheli2](scaleheli2.jpeg)
    2. 3D ![3dheli](3dheli.jpg)
 1. Drones
-   1. Camera (typical DJI)
+   1. Camera (typical DJI) ![video](video.jpg)
    2. Cinematic (mix off freestyle and camera)
    3. Freestyle / Racing ![freestyle](freestyle.jpg)
   
@@ -21,7 +21,7 @@
 **Do not start with a cool fighter jet - you will destroy it!!!**
 
 1. Get something simple to fly
-    1. Tiny indoor drone (with prop protection)
+    1. Tiny indoor drone (with prop protection) ![eachine e010](e010.jpg)
     2. Stabaliesed camera drone (with prop protection)
     3. A Trainer airplane (with recovery function or dihedral)
 2. Get a simulator and use it for some time
