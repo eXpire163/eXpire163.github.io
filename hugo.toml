@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "eXpire163's projects"
+theme = 'ananke'
+# sectionPagesMenu = 'main'

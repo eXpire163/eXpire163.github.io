@@ -1,4 +1,8 @@
-# RC-Journey
+---
+title: "RC-Journey"
+date: 2023-08-04T09:07:35+02:00
+draft: false
+---
 
 ## How to get started
 
@@ -6,7 +10,7 @@
 
 1. Get something simple to fly
     1. Tiny indoor drone (with prop protection) \
-    ![eachine e010](e010.jpg)
+    ![eachine e010](/images/rc-intro/e010.jpg)
     2. Stabaliesed camera drone (with prop protection)
     3. A Trainer airplane (with recovery function or dihedral)
 2. Get a simulator and use it for some time
@@ -14,23 +18,24 @@
 ## Areas of the hobby
 
 1. Planes
-   1. Glider (with or without motor) ![glider](glider.jpg)
-   2. High wing (trainer / stol) ![high](highwing.jpg) ![high2](highwing2.JPG)
-   3. Mid wing (3d) ![mid](3d.jpg)
+   1. Glider (with or without motor) ![glider](/images/rc-intro/glider.jpg)
+   2. High wing (trainer / stol) ![high](/images/rc-intro/highwing.jpg) ![high2](/images/rc-intro/highwing2.jpg)
+   3. Mid wing (3d) ![mid](/images/rc-intro/3d.jpg)
    4. Low wing (warbirds)
-   5. Wing ![wing](wing.JPG)
+   5. Wing ![wing](/images/rc-intro/wing.jpg)
 1. Helicopters
-   1. Scale ![scaleheli](scaleheli.JPG) ![scaleheli2](scaleheli2.jpeg)
-   2. 3D ![3dheli](3dheli.jpg)
+   1. Scale ![scaleheli](scaleheli.jpg) ![scaleheli2](/images/rc-intro/scaleheli2.jpg)
+   2. 3D ![3dheli](/images/rc-intro/3dheli.jpg)
 1. Drones
-   1. Camera (typical DJI) ![video](video.jpg)
+   1. Camera (typical DJI) ![video](/images/rc-intro/video.jpg)
    2. Cinematic (mix off freestyle and camera)
-   3. Freestyle / Racing ![freestyle](freestyle.jpg)
+   3. Freestyle / Racing ![freestyle](/images/rc-intro/freestyle.jpg)
 1. FPV (First Person View)
    Race / Freestyle / Longrange / Mission
 1. Building your own
-   1. Foamboard / Depron ![foamboard plane](foamboard.jpg)
-   1. Balsawood ![balsa build](wood.jpg)
+   1. Foamboard / Depron ![foamboard plane](/images/rc-intro/foamboard.jpg)
+   1. Balsawood ![balsa build](/images/rc-intro/wood.jpg)
+   1. Tech Challange ![tech overviw](/images/rc-intro/inavlogic.jpg)
 
 
 
