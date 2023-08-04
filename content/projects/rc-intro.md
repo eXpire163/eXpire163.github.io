@@ -24,7 +24,7 @@ draft: false
    4. Low wing (warbirds)
    5. Wing ![wing](/images/rc-intro/wing.jpg)
 1. Helicopters
-   1. Scale ![scaleheli](scaleheli.jpg) ![scaleheli2](/images/rc-intro/scaleheli2.jpg)
+   1. Scale ![scaleheli](/images/rc-intro/scaleheli.jpg) ![scaleheli2](/images/rc-intro/scaleheli2.jpg)
    2. 3D ![3dheli](/images/rc-intro/3dheli.jpg)
 1. Drones
    1. Camera (typical DJI) ![video](/images/rc-intro/video.jpg)
