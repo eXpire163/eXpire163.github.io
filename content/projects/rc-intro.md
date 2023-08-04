@@ -31,7 +31,7 @@ draft: false
    2. Cinematic (mix off freestyle and camera)
    3. Freestyle / Racing ![freestyle](/images/rc-intro/freestyle.jpg)
 1. FPV (First Person View)
-   Race / Freestyle / Longrange / Mission
+   Race / Freestyle / Longrange / Mission ![fpv me](/images/rc-intro/fpv.jpg)
 1. Building your own
    1. Foamboard / Depron ![foamboard plane](/images/rc-intro/foamboard.jpg)
    1. Balsawood ![balsa build](/images/rc-intro/wood.jpg)
