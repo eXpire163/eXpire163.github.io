@@ -70,7 +70,7 @@ There are tons of different brands and styles out there - but ask the people at 
 
 Just make sure you get something you can connect to the pc / simulator
 
-![remote](remote.jpg)
+![remote](/images/rc-intro/remote.jpg)
 
 2. Charger
 
