@@ -65,7 +65,7 @@ What else do I need?
 1. Remote Control
 There are tons of different brands and styles out there - but ask the people at your local club on with systems they can help you with
    1. if you just want something that works and works with lots of stuff - use Spektrum
-   2. if you are a developer - get a radiomaster tx16s and get into openTX/edgeTX
+   2. if you are a developer - get a radiomaster tx16s or pocket and get into openTX/edgeTX
    3. if you want to fly a jet - get a Jeti system
 
 Just make sure you get something you can connect to the pc / simulator
