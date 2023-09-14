@@ -4,6 +4,13 @@ date: 2023-08-04T09:07:35+02:00
 draft: false
 ---
 
+## How to NOT get started
+
+![jet start](/images/rc-intro/jet_start.jpg)
+
+Buy a turbine jet that goes more than 300 km/h and cost more than your car - because you will destroy it!!!
+
+
 ## How to get started
 
 **Do not start with a cool fighter jet - you will destroy it!!!**
