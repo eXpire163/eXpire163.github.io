@@ -1,0 +1,22 @@
+---
+title: "AWS Amplify Intro"
+date: 2023-09-18T09:38:31+02:00
+draft: true
+---
+
+## Whay should i care about it
+
+If you are a developer or an UX designer wanting to build a public website dealing with data and users and don't want to learn all trillen tecks needed for.
+
+## Goal
+
+Have a simple data structure that allows via a Website to CRUD (Create, Read, update and delete) items in a visually not to ugly way and secure everything with a user management.
+
+## Requirements
+
+- AWS account
+- Google account (for a free login to figma - ui editor)
+- 60-180 minutes time
+
+- installed locally: git and a code editor (e.g. vs-code) 
+
