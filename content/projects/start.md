@@ -2,6 +2,8 @@
 title: "Start"
 date: 2022-10-09T10:19:40+02:00
 draft: false
+
+
 ---
 
 ## To know or not to know ...
