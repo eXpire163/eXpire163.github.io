@@ -2,6 +2,9 @@
 title: "RC-Journey"
 date: 2023-08-04T09:07:35+02:00
 draft: false
+
+tags: ["rc"]
+
 ---
 
 ## How to NOT get started

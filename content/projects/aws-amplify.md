@@ -2,7 +2,7 @@
 title: "AWS Amplify Intro"
 date: 2023-09-18T09:38:31+02:00
 draft: false
-
+tags: ["aws"]
 featured_image: '/images/aws-amplify/result.png'
 
 ---

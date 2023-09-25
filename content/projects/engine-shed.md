@@ -4,6 +4,7 @@ date: 2022-10-17T19:38:31+02:00
 draft: false
 
 featured_image: '/images/engine-shed/walkway.jpg'
+tags: ["model railroad", "3d-printing"]
 ---
 
 After some playing around with a pringles pipe as a shed i decided to upgrade to a 3d printed one.
