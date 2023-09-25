@@ -46,7 +46,7 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 
 3. Hit `Save and Deploy`
 
-![data table](/aws-amplify/data.png)
+![data table](/images/aws-amplify/data.png)
 
 ## Design the ui
 
@@ -63,7 +63,7 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 
 1. Insert dummy data via `Content -> Select our table -> Action -> Aut-generate`
 
-![generating data dialog](/aws-amplify/data_generator.png)
+![generating data dialog](/images/aws-amplify/data_generator.png)
 
 2. Via  UI Libraray -> Components -> ItemCard -> Configure you can map the proteries
     1. select t-shirt on the left and `bind to data -> superstoreitem.name`
@@ -74,7 +74,7 @@ Now you can shuffle the data if you like to test your UI
 
 3. Create a collection on the top right
 
-![create collection](/aws-amplify/collection.png)
+![create collection](/images/aws-amplify/collection.png)
 
 4. Now enable search an pagination for our collections
 
