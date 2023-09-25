@@ -1,7 +1,7 @@
 ---
 title: "AWS Amplify Intro"
 date: 2023-09-18T09:38:31+02:00
-draft: true
+draft: false
 ---
 
 ## Whay should i care about it
@@ -37,6 +37,9 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 1. Go to `Set Up -> Data` on the left
 2. create your first table
 > latest version of amplify finaly relational data, but we don't today
+
+> WARNING: Go to GraphQL API Settings and enable versioning and conflict resolution, otherwise it will not work
+
 3. Hit `Save and Deploy`
 
 ![data table](/aws-amplify/data.png)
@@ -141,3 +144,50 @@ import {
 
 We have designed our datastructure, filled it with data and stored it in dynamo db
 We have build an UI with everything you need nower days
+
+
+## Get authenticated
+
+Go to Authentication on the left and then deploy (or explore lots of cool things on this page first)
+
+Go to your App.js and add the auth stuff (code is from the Library link -> Authentication)
+
+```
+import { Amplify } from 'aws-amplify';
+
+import { withAuthenticator } from '@aws-amplify/ui-react';
+import '@aws-amplify/ui-react/styles.css';
+
+import awsExports from './aws-exports';
+Amplify.configure(awsExports);
+
+function App({ signOut, user }) {
+  return (
+    <>
+      <h1>Hello {user.username}</h1>
+      <ItemCardCollection />
+      <button onClick={signOut}>Sign out</button>
+    </>
+  );
+}
+
+export default withAuthenticator(App);
+```
+
+This would create an error now, so lets fix it:
+
+Run `amplify pull` and you should have all components ready to go
+
+> run `npm start` as often as possible to see where it breaks
+
+Click on register, then sign in and you are logged in!!!
+
+## Summery TWO
+
+We have create a congito user pool, a sign in mechnism that also support google/facebook ....
+We have added all needed user dialogs
+
+
+## Fazit
+
+Amplifly has still a long way to go but i you just want to kickstart something - use it.
