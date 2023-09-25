@@ -2,6 +2,10 @@
 title: "AWS Amplify Intro"
 date: 2023-09-18T09:38:31+02:00
 draft: false
+
+cascade:
+  featured_image: 'https://gohugo-ananke-theme-demo.netlify.app/images/gohugo-default-sample-hero-image.jpg'
+
 ---
 
 ## Whay should i care about it
