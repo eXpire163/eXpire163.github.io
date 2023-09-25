@@ -2,6 +2,8 @@
 title: "Small Engine Shed"
 date: 2022-10-17T19:38:31+02:00
 draft: false
+
+featured_image: '/images/engine-shed/walkway.jpg'
 ---
 
 After some playing around with a pringles pipe as a shed i decided to upgrade to a 3d printed one.

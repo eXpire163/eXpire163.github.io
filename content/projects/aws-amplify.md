@@ -3,14 +3,13 @@ title: "AWS Amplify Intro"
 date: 2023-09-18T09:38:31+02:00
 draft: false
 
-cascade:
-  featured_image: 'https://gohugo-ananke-theme-demo.netlify.app/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/aws-amplify/result.png'
 
 ---
 
-## Whay should i care about it
+## Why should i care about it
 
-If you are a developer or an UX designer wanting to build a public website dealing with data and users and don't want to learn all trillien tecks needed for. Or you are just sick of writing boiler plate code.
+If you are a developer or an UX designer wanting to build a public website dealing with data and users and don't want to learn all trillion tech's needed for. Or you are just sick of writing boiler plate code.
 
 ## Goal
 
@@ -31,7 +30,7 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 1. Go to aws amplify and click on `create new app -> build an app -> choose a name -> get a coffee`.
 2. Select the app and the backend tab and " Launch Studio"
 
-## Usefull links
+## Useful links
 
 1. To the learning section https://docs.amplify.aws/console/
 2. To the libraries https://docs.amplify.aws/lib/q/platform/js/
@@ -40,9 +39,11 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 
 1. Go to `Set Up -> Data` on the left
 2. create your first table
-> latest version of amplify finaly relational data, but we don't today
+> latest version of amplify finally relational data, but we don't today
 
 > WARNING: Go to GraphQL API Settings and enable versioning and conflict resolution, otherwise it will not work
+
+
 
 3. Hit `Save and Deploy`
 
@@ -50,25 +51,27 @@ Have a simple data structure that allows via a Website to CRUD (Create, Read, up
 
 ## Design the ui
 
-1. Go to the learning sestion link -> UI with Figma and grab the Figma link (https://www.figma.com/community/file/1047600760128127424)
+1. Go to the learning section link -> UI with Figma and grab the Figma link (https://www.figma.com/community/file/1047600760128127424)
 2. Open it an clone it
 3. then insert it in amplify
 
-
+![figma setup](/images/aws-amplify/figma_setup.png)
 
 4. Accept everything two times
 5. Explore in Figma the Item Card in My Components
 
 ### Lets build a view with real data
 
-1. Insert dummy data via `Content -> Select our table -> Action -> Aut-generate`
+1. Insert dummy data via `Content -> Select our table -> Action -> Auto-generate`
 
 ![generating data dialog](/images/aws-amplify/data_generator.png)
 
-2. Via  UI Libraray -> Components -> ItemCard -> Configure you can map the proteries
+2. Via  UI Library -> Components -> ItemCard -> Configure you can map the properties
     1. select t-shirt on the left and `bind to data -> superstoreitem.name`
-    2. Classic long sleve to `superstoritem.details`
-    3. $99 to `superitem.prive`
+    2. Classic long sleave to `superstoreitem.details`
+    3. $99 to `superstoreitem.price`
+
+    ![data mapping](/images/aws-amplify/data_mapping1.png)
 
 Now you can shuffle the data if you like to test your UI
 
@@ -96,7 +99,7 @@ npm start
 
 `amplify pull --appId your_id --envName staging`
 
-Acceppt the secret login page
+Accept the secret login page
 
 
 Setup the amplify cli and include react stuff
@@ -146,8 +149,8 @@ import {
 
 ## Summery ONE
 
-We have designed our datastructure, filled it with data and stored it in dynamo db
-We have build an UI with everything you need nower days
+We have designed our data structure, filled it with data and stored it in dynamo db
+We have build an UI with everything you need nowadays
 
 
 ## Get authenticated
@@ -188,10 +191,10 @@ Click on register, then sign in and you are logged in!!!
 
 ## Summery TWO
 
-We have create a congito user pool, a sign in mechnism that also support google/facebook ....
+We have create a cognito user pool, a sign in mechanism that also support google/facebook ....
 We have added all needed user dialogs
 
 
-## Fazit
+## Result
 
 Amplifly has still a long way to go but i you just want to kickstart something - use it.
