@@ -1,0 +1,15 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "eXpire163's projects"
+theme: 'ananke'
+# sectionPagesMenu = 'main'
+
+taxonomies:
+   tag: "tags"
+
+params:
+  ananke_socials:
+      - name: thingiverse
+        url: https://www.thingiverse.com/expire163/designs
+      - name: github
+        url: https://github.com/eXpire163
