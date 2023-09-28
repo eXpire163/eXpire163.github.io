@@ -1,6 +1,6 @@
 ---
 title: "Get into modern IT"
-date: 2023-09-28 T09:38:31+02:00
+date: 2023-09-28T09:38:31+02:00
 draft: false
 tags: ["aws", "devops"]
 featured_image: '/images/get-into-devops.png'
