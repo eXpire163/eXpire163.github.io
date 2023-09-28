@@ -1,5 +1,5 @@
 ---
-title: "Get Into modern IT"
+title: "Get into modern IT"
 date: 2023-09-29T09:38:31+02:00
 draft: false
 tags: ["aws", "devops"]
