@@ -85,3 +85,12 @@ Just make sure you get something you can connect to the pc / simulator
 2. Charger
 
 Start with a simple "4 button" charger and later when you know what you want, get a 2-4 port charger
+
+## Some links 
+(that hopfully still work)
+
+- RC Airplane/tech intro by FliteTest on [youtube](https://youtube.com/playlist?list=PL6IuSFWz4ktvupu_gxw1vn-sjBGOkJFHV&si=lJ1XuFBUc-SY9WD1)
+- FliteTest beginner [guide](https://beginner.flitetest.com)
+- [Drone Shopping list](https://www.fpvknowitall.com/) by the FPV Guru [JoshuaBardwell](https://www.youtube.com/@JoshuaBardwell)
+- Tutorials, Fun and Informations on Freestyle Drones by [RotorRiot](https://www.youtube.com/c/RotorRiot)
+
