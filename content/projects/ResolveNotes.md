@@ -3,12 +3,18 @@ title: "Davinci resolve notes"
 date: 2025-10-17T19:38:31+02:00
 draft: false
 
-# featured_image: '/images/engine-shed/walkway.jpg'
+# featured_image: '/images/resolve.png'
 tags: ["video"]
 ---
 
 
 # Davinci resolve notes
+
+This is not a project by my way of quickly editing some (drone) footage
+
+## Stabalise
+
+Add all videos into Gyroflow and run it against to profile for Caddx Moonlight.
 
 ## Project Setup
 
@@ -34,3 +40,4 @@ In cut view:
 - use upper windows to adjust cut (left out , right in)
 - "j,k,l" (play back, stop, play)
 - "/" play around cut
+
